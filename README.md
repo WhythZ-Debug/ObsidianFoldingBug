@@ -1,4 +1,4 @@
 # ObsidianFoldingBug
-See the detailed declaration of the issue: <https://forum-zh.obsidian.md/t/topic/42075>
+![Watch the video here](https://github.com/WhythZ-Debug/ObsidianFoldingBug/blob/main/issue.mp4)
 
-<source src="https://github.com/WhythZ-Debug/ObsidianFoldingBug/blob/main/issue.mp4" type="video/mp4">
+See the detailed declaration of this problem: <https://forum-zh.obsidian.md/t/topic/42075>
